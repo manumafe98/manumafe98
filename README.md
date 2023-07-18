@@ -12,6 +12,8 @@ These are a couple of my personal projects, there are mostly based on my hobbies
 - [One Piece Devil Fruit Finder: Search your favourite devil fruit from the show](https://github.com/manumafe98/One-Piece-Devil-Fruit-Finder-FastApi-MongoDb)
 - [Chelsea FC Trivia: a trivia to test your chelsea knowledge](https://github.com/manumafe98/Chelsea-Fc-Trivia)
 - [My Top Movies: Search your favourite movies, ranked them and rate them](https://github.com/manumafe98/MyTopMovies)
+- [Football Discord Bot: a bot that helps you know the fixture of your favourite club](https://github.com/manumafe98/Football-Discord-Bot)
+- [A series of small and famous projects](https://github.com/manumafe98/MyPythonProjects)
 
 ## 💻 My Stack technologies
 
