@@ -1,6 +1,6 @@
 # Hello, my name is Manuel Maxera
 
-### I'm a Cloud Engineer making my first steps to become a Python developer.
+### I'm a Cloud Engineer making my first steps to become a Software Engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manuel-maxera/)
 [![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)](https://manumafe98.github.io/cv/)
