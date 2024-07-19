@@ -3,7 +3,7 @@
 ### I'm a Software Engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manuel-maxera/)
-[![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)](https://manumafe98.github.io/cv/)
+[![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)]()
 
 ## 🚀 My Projects
 
@@ -13,7 +13,6 @@ These are a couple of my projects:
 - [Exercism java-analyzer: build automated feedback for students](https://github.com/manumafe98/java-analyzer)
 - [Chelsea FC Trivia: a trivia to test your chelsea knowledge](https://github.com/manumafe98/Chelsea-Fc-Trivia)
 - [Football Discord Bot: a bot that helps you know the fixture of your favourite club](https://github.com/manumafe98/Football-Discord-Bot)
-- [BookRepository: a webpage to store your books and the status of your lecture](https://github.com/manumafe98/BookRepository)
 - [VBNB - Vacations, bed and breakfast](https://github.com/manumafe98/Vbnb)
 
 ## 💻 My Stack technologies
