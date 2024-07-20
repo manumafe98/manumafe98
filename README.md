@@ -3,7 +3,7 @@
 ### I'm a Software Engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manuel-maxera/)
-[![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)]()
+[![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)](https://manuel-maxera.netlify.app/)
 
 ## 🚀 My Projects
 
