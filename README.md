@@ -11,7 +11,7 @@ These are a couple of my projects:
 
 - [Exercism java track: concepts and exercise to learn java](https://github.com/manumafe98/java)
 - [Exercism java-analyzer: build automated feedback for students](https://github.com/manumafe98/java-analyzer)
-- [Chelsea FC Trivia: a trivia to test your chelsea knowledge](https://github.com/manumafe98/Chelsea-Fc-Trivia)
+- [Chelsea FC Trivia: a trivia to test your chelsea knowledge](https://github.com/manumafe98/chelsea_trivia_2.0)
 - [Football Discord Bot: a bot that helps you know the fixture of your favourite club](https://github.com/manumafe98/Football-Discord-Bot)
 - [VBNB - Vacations, bed and breakfast](https://github.com/manumafe98/Vbnb)
 
