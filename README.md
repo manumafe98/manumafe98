@@ -11,7 +11,7 @@ These are a couple of my projects:
 
 Web3:
 - [HoytsX - Get your cinema tickets for your favourite movie with crypto](https://github.com/manumafe98/HoytsX)
-- [Pokemon Voting Dapp - Vote your favourite pokemon on the blockchain]([https://github.com/manumafe98/HoytsX](https://github.com/manumafe98/pokemon_voting_dapp))
+- [Pokemon Voting Dapp - Vote your favourite pokemon on the blockchain](https://github.com/manumafe98/pokemon_voting_dapp)
 
 Normal:
 - [Exercism java track: concepts and exercise to learn java](https://github.com/manumafe98/java)
