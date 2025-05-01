@@ -1,6 +1,6 @@
 # Hello, my name is Manuel Maxera
 
-### I'm a Software Engineer.
+### I'm a Software Engineer looking to be involved on the blockchain, web3 and smart contract development world!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manuel-maxera/)
 [![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)](https://manuel-maxera.netlify.app/)
@@ -9,10 +9,14 @@
 
 These are a couple of my projects:
 
+Web3:
+- [HoytsX - Get your cinema tickets for your favourite movie with crypto](https://github.com/manumafe98/HoytsX)
+- [Pokemon Voting Dapp - Vote your favourite pokemon on the blockchain]([https://github.com/manumafe98/HoytsX](https://github.com/manumafe98/pokemon_voting_dapp))
+
+Normal:
 - [Exercism java track: concepts and exercise to learn java](https://github.com/manumafe98/java)
 - [Exercism java-analyzer: build automated feedback for students](https://github.com/manumafe98/java-analyzer)
 - [Chelsea FC Trivia: a trivia to test your chelsea knowledge](https://github.com/manumafe98/chelsea_trivia_2.0)
-- [Football Discord Bot: a bot that helps you know the fixture of your favourite club](https://github.com/manumafe98/Football-Discord-Bot)
 - [VBNB - Vacations, bed and breakfast](https://github.com/manumafe98/Vbnb)
 
 ## 💻 My Stack technologies
