@@ -13,7 +13,7 @@ Web3:
 - [HoytsX - Get your cinema tickets for your favourite movie with crypto](https://github.com/manumafe98/HoytsX)
 - [Pokemon Voting Dapp - Vote your favourite pokemon on the blockchain](https://github.com/manumafe98/pokemon_voting_dapp)
 
-Normal:
+Web2:
 - [Exercism java track: concepts and exercise to learn java](https://github.com/manumafe98/java)
 - [Exercism java-analyzer: build automated feedback for students](https://github.com/manumafe98/java-analyzer)
 - [Chelsea FC Trivia: a trivia to test your chelsea knowledge](https://github.com/manumafe98/chelsea_trivia_2.0)
