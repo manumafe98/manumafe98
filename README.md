@@ -1,9 +1,9 @@
 # Hello, my name is Manuel Maxera
 
-### I'm a Software Engineer looking to be involved on the blockchain, web3 and smart contract development world!
+### AI Engineer building LLM agents and MCP integrations. Portfolio: [manuelmaxera.com](https://manuelmaxera.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manuel-maxera/)
-[![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)](https://manuel-maxera.netlify.app/)
+[![Website](https://img.shields.io/badge/Visit-Website-brightgreen?style=flat&logo=world)](https://manuelmaxera.com/)
 
 ## 🚀 My Projects
 
